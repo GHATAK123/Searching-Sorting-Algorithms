@@ -1,3 +1,7 @@
+/* Implementation of bubble sort in cpp */
+/* In Best case Time Complexity will be O(n) [If Array will be Sorted Intially.] */
+/* In Worst case Time Complexity will be O(n^2) [If Array will be reverse Sorted Intially.]*/
+
 #include<bits/stdc++.h>
 using namespace std;
 
