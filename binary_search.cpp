@@ -1,3 +1,7 @@
+/* Implementation of binary or half-interval or logarithmic search on an array.
+   It does not work on unsorted array.
+   In Best case Time complexity will be O(1),when middle element will be the target element.
+   In Average and Worst case Time complexity will be theta(log n).*/
 #include <iostream>
 using namespace std;
 
