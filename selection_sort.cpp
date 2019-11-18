@@ -1,3 +1,5 @@
+/* Implementation of selection sort in cpp */
+/* In All case Time Complexity will be O(n^2)*/
 #include<bits/stdc++.h>
 using namespace std;
  
