@@ -1,3 +1,6 @@
+/* In Best Case Time Complexity will be O(1),If the target element is found at index 0.
+ In average and worst case time comlexity will be O(n) */
+
 #include <iostream>
 using namespace std;
 
