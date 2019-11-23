@@ -1,9 +1,5 @@
-#include <iostream>
-using namespace std;
-
-int main() {
-	// your code goes here
-	return 0;
+/* Time Complexitiy of counting sort : O(n+k) 
+    space complexitity : O(k) */ 
 #include <iostream>
 using namespace std;
 
